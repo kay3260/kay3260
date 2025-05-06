@@ -63,7 +63,7 @@ I’m a **["Full-Stack Developer"]**
 
 --- 
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by [Kay]  
 
 ---
 
