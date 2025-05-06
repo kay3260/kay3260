@@ -4,8 +4,8 @@ Here's a polished `README.md` for an **"About Me"** GitHub profile or personal r
 
 # 👋 Hello, I'm Kay!  
 
-[![GitHub followers](https://github.com/kay3260)  
-[![LinkedIn](https://www.linkedin.com/in/kay-ho-1373a8303/) 
+[GitHub followers](https://github.com/kay3260)  
+[LinkedIn](https://www.linkedin.com/in/kay-ho-1373a8303/) 
 
 **Full Stack Developer**  
 📍 Based in [Hong Kong]  
@@ -46,31 +46,15 @@ I’m a **["Full-Stack Developer"]**
 
 ## 📫 Let’s Connect!  
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 📧 **Email:** your.email@example.com  
-
----
-
-⭐ **Fun fact:** My profile is [open-source](https://github.com/username/username)! Feel free to fork and customize it.  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/kay-ho-1373a8303/)  
+  
 --- 
 
 ### 🔗 Quick Links  
-- [Portfolio](https://yourportfolio.com)  
-- [Blog](https://yourblog.com)  
-- [Resume](https://drive.google.com/your-resume)  
+- [Portfolio]--dev-- 
+- [Blog]--dev-- 
+- [Resume]--dev--  
 
 --- 
 
 Made with ❤️ by [Kay]  
-
----
-
-### Tips:  
-1. Replace placeholders (`username`, `yourhandle`, etc.) with your actual info.  
-2. Use [Shields.io](https://shields.io) for custom badges.  
-3. For animated stats, try [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).  
-4. Add emojis sparingly for visual appeal 🎨.  
-
-Let me know if you'd like to tweak anything!
