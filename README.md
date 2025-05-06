@@ -2,21 +2,20 @@ Here's a polished `README.md` for an **"About Me"** GitHub profile or personal r
 
 ---
 
-# 👋 Hello, I'm [Your Name]!  
+# 👋 Hello, I'm Kay!  
 
 [![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)  
 
-**Developer | [Your Profession] | [Your Passion]**  
-📍 Based in [Your Location]  
+**Full Stack Developer**  
+📍 Based in [Hong Kong]  
 
 ---
 
 ## � About Me  
 
-I’m a **[your role, e.g., "Full-Stack Developer"]** passionate about **[key interests, e.g., "open-source, AI, and building scalable web apps"]**.  
-
+I’m a **["Full-Stack Developer"]**
 - 🔭 **Currently working on:** [Chilling]  
 - 🌱 **Learning:** ["DevOps"]  
 - 👯 **Looking to collaborate on:** ["React projects or AI startups"]  
