@@ -4,9 +4,8 @@ Here's a polished `README.md` for an **"About Me"** GitHub profile or personal r
 
 # 👋 Hello, I'm Kay!  
 
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)  
+[![GitHub followers](https://github.com/kay3260)  
+[![LinkedIn](https://www.linkedin.com/in/kay-ho-1373a8303/) 
 
 **Full Stack Developer**  
 📍 Based in [Hong Kong]  
